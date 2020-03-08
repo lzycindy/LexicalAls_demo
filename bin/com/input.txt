@@ -1,0 +1,4 @@
+DIM int a = 1 , b = 2 ;
+DIM String h = "hhh" ;
+IF ( i <= 2 ) return i * , ** ;
+DO { index = 1 } While ( j <= 3 ) { j + 1 , STOP } ;
